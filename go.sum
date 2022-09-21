@@ -1,4 +1,4 @@
-github.com/alessio-pareto/process v0.9.1 h1:8lrrALm8JvGv784nbOn2+iNRenIxCE9hxmLLlCGCLxg=
-github.com/alessio-pareto/process v0.9.1/go.mod h1:OZBtgT3G4houhnpsJIgsESklnhc01/Kd+5Li6gfrc6o=
-github.com/alessio-pareto/process v1.0.0 h1:Cl4HiqSLi0ts+5bWuhs/UkzY6iijCwDJm9W3xmgl7kY=
-github.com/alessio-pareto/process v1.0.0/go.mod h1:OZBtgT3G4houhnpsJIgsESklnhc01/Kd+5Li6gfrc6o=
+github.com/nixpare/process v0.9.1 h1:8lrrALm8JvGv784nbOn2+iNRenIxCE9hxmLLlCGCLxg=
+github.com/nixpare/process v0.9.1/go.mod h1:OZBtgT3G4houhnpsJIgsESklnhc01/Kd+5Li6gfrc6o=
+github.com/nixpare/process v1.0.0 h1:Cl4HiqSLi0ts+5bWuhs/UkzY6iijCwDJm9W3xmgl7kY=
+github.com/nixpare/process v1.0.0/go.mod h1:OZBtgT3G4houhnpsJIgsESklnhc01/Kd+5Li6gfrc6o=

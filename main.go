@@ -4,7 +4,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/alessio-pareto/process"
+	"github.com/nixpare/process"
 )
 
 func main() {
